@@ -21,27 +21,23 @@
 <div align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_17.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_17.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      
-     </animated-image><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-    COCO 17个要点
+     </animated-image>
 </font></font></div>
 <div align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_26.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_26.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     </animated-image><br>
-    <b><a href="https://github.com/Fang-Haoshu/Halpe-FullBody"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Halpe 26 个关键点</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 跟踪
+     </animated-image>
 </font></font></div>
 <div align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_136.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_136.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_136.gif" target="_blank">
           
-    </animated-image><br>
-    <b><a href="https://github.com/Fang-Haoshu/Halpe-FullBody"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Halpe 136 个关键点</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 跟踪
+    </animated-image>
     </font></font><b><a href="https://youtu.be/uze6chg-YeU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 链接</font></font></a></b><br>
 </div>
 <div align="center" dir="auto">
     <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_hybrik_smpl.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_hybrik_smpl.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-    </animated-image><br>
-    <b><a href="https://github.com/Jeff-sjtu/HybrIK"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SMPL</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> + 跟踪
+    </animated-image>
 </font></font></div>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">结果</font></font></h2><a id="user-content-results" class="anchor" aria-label="永久链接：结果" href="#results"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">姿势估计</font></font></h3><a id="user-content-pose-estimation" class="anchor" aria-label="永久链接：姿势估计" href="#pose-estimation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
