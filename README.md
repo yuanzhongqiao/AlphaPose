@@ -19,18 +19,18 @@
 为了匹配跨帧对应同一个人的姿势，我们还提供了一个名为 Pose Flow 的高效在线姿势跟踪器。</font><font style="vertical-align: inherit;">它是</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一个在 PoseTrack Challenge 数据集上实现 60+ mAP (66.5 mAP) 和 50+ MOTA (58.3 MOTA) 的开源在线姿势跟踪器。</font></font></strong></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AlphaPose 同时支持 Linux 和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows！</font></font></strong></p>
 <div align="center" dir="auto">
-    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_17.gif" data-target="animated-image.originalLink"><img src="/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_17.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_17.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_17.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      
      </animated-image><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     COCO 17个要点
 </font></font></div>
 <div align="center" dir="auto">
-    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_26.gif" data-target="animated-image.originalLink"><img src="/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_26.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_26.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_26.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      </animated-image><br>
     <b><a href="https://github.com/Fang-Haoshu/Halpe-FullBody"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Halpe 26 个关键点</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">+ 跟踪
 </font></font></div>
 <div align="center" dir="auto">
-    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_136.gif" data-target="animated-image.originalLink"><img src="/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_136.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_136.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_136.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_136.gif" target="_blank">
           
@@ -39,7 +39,7 @@
     </font></font><b><a href="https://youtu.be/uze6chg-YeU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 链接</font></font></a></b><br>
 </div>
 <div align="center" dir="auto">
-    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_hybrik_smpl.gif" data-target="animated-image.originalLink"><img src="/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_hybrik_smpl.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    <animated-image data-catalyst="" style="width: 400px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/MVIG-SJTU/AlphaPose/blob/master/docs/alphapose_hybrik_smpl.gif" data-target="animated-image.originalLink"><img src="https://github.com/MVIG-SJTU/AlphaPose/raw/master/docs/alphapose_hybrik_smpl.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
     </animated-image><br>
     <b><a href="https://github.com/Jeff-sjtu/HybrIK"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SMPL</font></font></a></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> + 跟踪
 </font></font></div>
